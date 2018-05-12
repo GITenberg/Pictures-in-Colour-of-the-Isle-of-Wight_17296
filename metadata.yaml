@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7284'
     url: http://www.gutenberg.org/2009/agents/7284
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17296#Pictures-in-Colour-of-the-Isle-of-Wight
 gutenberg_issued: '2005-12-13'
 gutenberg_type: Text
 identifiers:
